@@ -1,2 +1,2 @@
 # ML4AstroBo
-Slides, notebooks and data for the Machine Learning Course for PhD Students at Bologna University, Spring 2023.
+Slides and data for the Machine Learning Course for Astrophysics PhD at Bologna University, Spring 2023.
